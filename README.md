@@ -1,3 +1,3 @@
 # Machine-Learning
 
-This contains some of my supoervised machine learning exercises and projects.
+This contains some of my supervised machine learning exercises and projects.
